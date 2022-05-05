@@ -12,6 +12,6 @@ Evidence is provided here of the following objectives:
 - Week 6 was an artical analysis that was done in pairs [Article Analysis week 6.docx](https://github.com/Calexander22/ePortfolio/files/8628255/Article.Analysis.week.6.docx)
 - [Wk6 Mob Writing Peer Assessment and Marking Sheet.xlsx](https://github.com/Calexander22/ePortfolio/files/8628258/Wk6.Mob.Writing.Peer.Assessment.and.Marking.Sheet.xlsx)
 4. Communicate effectively in a professional context
-- 
+- To communicate effectively in professional context, you must use professional langauge, approprite jestures and clear langauge. verbal and writting styles must change to accomidate who you are communicating with.
 5. Define and demonstrate conflict management and resolution strategies.
-- Add evidence here.
+- In week 4 a conflict scenario was given to groups who then worked through the conflict scenario [Week 4 Conflict Scenario.docx](https://github.com/Calexander22/ePortfolio/files/8628250/Week.4.Conflict.Scenario.docx).
