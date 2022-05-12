@@ -13,4 +13,9 @@ Evidence is provided here of the following objectives:
 4. Communicate effectively in a professional context
 - To communicate effectively in professional context, you must use professional langauge, approprite jestures and clear langauge. Verbal and writting styles must change to accomidate who you are communicating with. It is best to avoid things such as cliches, slang, euphemisms and doublespeak as these are seen as unprofessional and may lead to confusion. In professional settings it is important to choose the correct channel of communication i.e. do not hold a meeting in-person for information that can be convayed in an email. Holding a meeting in-person for information that can be convayed in an email will annoy others.
 5. Define and demonstrate conflict management and resolution strategies.
+- There are four main ways to manage conflict; Compete/Force, Collaborate/Confront, Avoid/Withdraw, Accommodate/Smooth.
+- Compete/Force is an aim to win regardless of the other party which can lead to an increase in conflict and a decrease performance.
+- Collaborate/Confront is an aim to win with consideration to the other party which can lead to an improvement in performance.
+- Accommodate/Smooth is an aim to end the conflict, this style can lead to a decrease in preformance and quality of work.
+- Avoid/Withdraw is an avoidence of the conflict all together, this style leads to an increase in conflicts, decrease in preformance and is ineffective.
 - In week 4 a conflict scenario was given to groups who then worked through the conflict scenario [Week 4 Conflict Scenario.docx](https://github.com/Calexander22/ePortfolio/files/8628250/Week.4.Conflict.Scenario.docx).
